@@ -8,3 +8,4 @@ This project will demonstrate the following skills:
 * Git
 * GitHub
 * Code Editor
+* HTML
