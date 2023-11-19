@@ -1,0 +1,14 @@
+.index-title {
+    color: rgb(201, 156, 8);
+    font-size: 100px;
+    position:absolute;
+    top: 13%;
+    right: 37.5%;
+}
+
+.links {
+    font-size: 24px;
+    position:absolute;
+    top: 32%;
+    right: 47.5%;
+}

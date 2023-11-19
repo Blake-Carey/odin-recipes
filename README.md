@@ -9,3 +9,4 @@ This project will demonstrate the following skills:
 * GitHub
 * Code Editor
 * HTML
+* CSS
