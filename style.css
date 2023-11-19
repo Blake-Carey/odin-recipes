@@ -1,4 +1,4 @@
-.index-title {
+.index .title {
     color: rgb(201, 156, 8);
     font-size: 100px;
     position:absolute;
@@ -12,3 +12,10 @@
     top: 32%;
     right: 47.5%;
 }
+
+.gbc .gbc-title {
+    color: lightgreen;
+    background-color: brown;
+    text-align: center;
+}
+
