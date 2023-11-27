@@ -1,21 +1,52 @@
 .index .title {
     color: rgb(201, 156, 8);
     font-size: 100px;
-    position:absolute;
-    top: 13%;
-    right: 37.5%;
-}
-
-.links {
-    font-size: 24px;
-    position:absolute;
-    top: 32%;
-    right: 47.5%;
-}
-
-.gbc .gbc-title {
-    color: lightgreen;
-    background-color: brown;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
     text-align: center;
 }
 
+.images .cbsimg {
+width: 300px;
+height: 225px;
+margin-left: 32px;
+}
+
+.images .gbcimg {
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 475px;
+}
+
+.images .scsimg {
+    width: 300px;
+    height: auto;
+    margin-left: 32px;
+}
+
+.gbclink {
+    display: inline-block;
+    background-color: darkgreen;
+    margin-top: 35px;
+    margin-left: 484px;
+    font-size: 30px;
+    padding: 8px;
+}
+
+.cbslink {
+    display: inline-block;
+    background-color: darkgreen;
+    font-size: 30px;
+    margin-left: 85px;
+    padding: 8px;
+}
+
+.scslink {
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 82px;
+    background-color: darkgreen;
+    padding: 8px;
+}
